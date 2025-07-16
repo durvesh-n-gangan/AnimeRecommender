@@ -1,0 +1,11 @@
+2025-07-17 01:31:23,415 - INFO - Intializing Recommdation Pipeline
+2025-07-17 01:31:39,367 - INFO - Use pytorch device_name: cpu
+2025-07-17 01:31:39,367 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-07-17 01:31:49,646 - INFO - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-07-17 01:31:56,877 - INFO - Pipleine intialized sucesfully...
+2025-07-17 01:32:19,896 - INFO - Recived a query what do u know about frieren
+2025-07-17 01:32:24,285 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 01:32:24,393 - INFO - Recommendation generated sucesfulyy...
+2025-07-17 01:33:11,469 - INFO - Recived a query give me an anime like attack on titan
+2025-07-17 01:33:12,998 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-17 01:33:13,000 - INFO - Recommendation generated sucesfulyy...
